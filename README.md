@@ -5,8 +5,8 @@ MINI HEALTHCARE SUPPORT APP - OFFICIAL ASSIGNMENT SUBMISSION
 ========================================================================
 
 ### 🔗 PROJECT LINKS
-- Live Hosted Link (Mandatory): https://netlify.app
-- Source Code Repository: https://google.com
+- Live Hosted Link (Mandatory):bright-squirrel-0a4d0d.netlify.app
+- Source Code Repository: https://docs.google.com/document/d/1_injxjZ3v9QH1Nq5HXQx9fpmRZRcfj8bnkbZapktvK8/edit?tab=t.0
 
 ------------------------------------------------------------------------
 SHORT README EXPLANATION
