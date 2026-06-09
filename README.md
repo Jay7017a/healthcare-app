@@ -1,8 +1,8 @@
 
 
-========================================================================
+
 MINI HEALTHCARE SUPPORT APP - OFFICIAL ASSIGNMENT SUBMISSION
-========================================================================
+
 
 ### 🔗 PROJECT LINKS
 - Live Hosted Link (Mandatory):bright-squirrel-0a4d0d.netlify.app
