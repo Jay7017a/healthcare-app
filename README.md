@@ -5,7 +5,7 @@ MINI HEALTHCARE SUPPORT APP
 ===================
 
 ### 🔗 PROJECT LINKS
-- Live Hosted Link (Mandatory):bright-squirrel-0a4d0d.netlify.app
+- Live Hosted Link (Mandatory):https://bright-squirrel-0a4d0d.netlify.app
 - Source Code Repository: https://docs.google.com/document/d/1_injxjZ3v9QH1Nq5HXQx9fpmRZRcfj8bnkbZapktvK8/edit?tab=t.0
 
 ------------------------------------------------------------------------
